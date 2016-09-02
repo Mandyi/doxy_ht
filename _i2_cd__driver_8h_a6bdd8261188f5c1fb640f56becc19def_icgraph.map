@@ -1,0 +1,4 @@
+<map id="read_i2c_byte" name="read_i2c_byte">
+<area shape="rect" id="node2" href="$_i2_cd__driver_8h.html#a1ef45493f710a8fca096c0a6a652c103" title="I2CRead" alt="" coords="156,5,227,32"/>
+<area shape="rect" id="node3" href="$_m_c_p9808d__driver_8h.html#a979d85d1b11c11a2b39cd52e58fb3cd9" title="ReadTemp" alt="" coords="275,5,359,32"/>
+</map>

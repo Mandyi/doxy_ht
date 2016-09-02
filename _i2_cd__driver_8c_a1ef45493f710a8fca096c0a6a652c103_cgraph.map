@@ -1,0 +1,5 @@
+<map id="I2CRead" name="I2CRead">
+<area shape="rect" id="node2" href="$_i2_cd__driver_8c.html#af00a5acdde0c1829215e040223efbba4" title="read_i2c_byte" alt="" coords="126,5,229,32"/>
+<area shape="rect" id="node3" href="$_i2_cd__driver_8c.html#a6dd250b97c04cca1f464a1045a93025d" title="send_i2c_byte" alt="" coords="124,56,231,83"/>
+<area shape="rect" id="node4" href="$_i2_cd__driver_8c.html#a5149736c791184da23d658764e9da861" title="i2c_stop" alt="" coords="279,56,349,83"/>
+</map>
